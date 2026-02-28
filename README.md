@@ -76,12 +76,7 @@ product) can be considered fit for release / "done".
 - It helps teams see progress toward a goal over time.
 
 ## References
-* https://hugogiraudel.com/2015/08/13/github-as-a-workflow/
+* https://www.scrum.org/resources/scrum-guide
 * https://zube.io/blog/agile-project-management-workflow-for-github-issues/
-* https://wiki.status.im/Using_GitHub_labels
-* https://github.com/jvandemo/github-scrum-workflow
-* https://www.atlassian.com/agile/project-management/epics-stories-themes
-* https://www.atlassian.com/agile/project-management/user-stories
-* https://www.atlassian.com/agile/project-management/epics
 * https://www.scrumdesk.com/epic-epically/
-* http://rgalen.com/agile-training-news/2013/11/10/technical-user-stories-what-when-and-how
+
