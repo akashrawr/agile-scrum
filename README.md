@@ -8,6 +8,8 @@ Template used to create a project based on Scrum
 `User Story` labels that are specific requirement that describes a feature
   - `As a [type of user], I want [goal], so that [benefit].`
   - `User Story: As a customer, I want to add items to a wishlist, so that I can purchase them later.`
+### Bug
+- `Bug: Login button does not work on mobile devices`
 
 ## Milestone
 - Sprint
