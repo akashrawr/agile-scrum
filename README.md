@@ -13,7 +13,7 @@ Template used to create a project based on Scrum
 
 ## Milestone
 - Sprint
-- Release
+
 ## Project
 Scrum Board
   
@@ -25,8 +25,6 @@ Scrum Board
 
 The Definition of Ready (DoR) describes the minimum set of criteria that must be fulfilled before a story is declared "good enough" / ready
 to be included and worked upon in an upcoming sprint.
-
-<br>
 
 ### Checklist
 
@@ -53,14 +51,11 @@ to be included and worked upon in an upcoming sprint.
 - [ ] The backlog item has been discussed and estimated by the team, and the estimation is not in the double-digits (8 points or lower)
       <br>_(an estimation is a combination of effort and complexity, plus risks)_
 - [ ] The backlog item is not blocked by another backlog item or external dependency, or the blocker is assumed to be resolved within the same Sprint
-<br><br><br>
 
 ## Definition of Done (DoD)
 
 The Definition of Done (DoD) describes the conditions that must be satisfied before the teams deliverables (e.g. next iteration of the
 product) can be considered fit for release / "done".
-
-<br>
 
 ### Checklist
 
@@ -74,6 +69,11 @@ product) can be considered fit for release / "done".
       <br>_(e.g. linting rules, code formatting, PR reviews)_
 - [ ] The code has been reviewed by at least one team member other than its creator (four-eyes principle)
       <br>_(e.g. PR reviews, presentation to co-workers, pair / mob programing)_
+
+## Burnup Charts
+- How much work has been completed
+- How much total work exists in the project
+- It helps teams see progress toward a goal over time.
 
 ## References
 * https://hugogiraudel.com/2015/08/13/github-as-a-workflow/
