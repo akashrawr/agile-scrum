@@ -77,6 +77,7 @@ product) can be considered fit for release / "done".
 
 ## References
 * https://www.scrum.org/resources/scrum-guide
+* https://hubstaff.com/blog/github-project-management/ 
 * https://zube.io/blog/agile-project-management-workflow-for-github-issues/
 * https://www.scrumdesk.com/epic-epically/
 
