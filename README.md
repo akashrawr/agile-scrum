@@ -1,4 +1,4 @@
-# Scrum Template @ GitHub
+# Scrum Template
 Template used to create a project based on Scrum
 ## Label
 ### Epic
